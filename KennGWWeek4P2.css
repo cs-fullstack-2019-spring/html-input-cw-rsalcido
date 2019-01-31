@@ -1,0 +1,18 @@
+html {
+    background-color: slategray;
+    text-align: center;
+}
+section{
+    margin: 10px;
+    background: whitesmoke;
+    padding-bottom:70px;
+    width: 100%;
+    color: cadetblue;
+}
+border{
+    solid-line
+}
+
+p{
+    color: darkslategray;
+}
